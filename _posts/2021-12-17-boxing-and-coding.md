@@ -10,7 +10,7 @@ featured: true
 hidden: false
 ---
 
-###### _Originally published on [Impulso blog](http://blog.impulso.network) (formerly HE:Labs), on January 21, 2014._
+###### _Originally published on [Impulso blog](http://blog.impulso.network) (formerly HE:Labs), on 21 January 2014._
 
 Fridays are 'sparring days' at the boxing gym where I train. We fight 2 minute rounds, with 30 seconds intervals in between. Each round we fight a different opponent. By the end of the session, everyone sparred with everyone.
 
@@ -26,7 +26,7 @@ Keep coding (and punching)!
 
 ## Addendum
 
-###### _Originally published as a comment on Disqus on September 18, 2014_
+###### _Originally published as a comment on Disqus on 18 September 2014_
 
 I should add something: sometimes you will score a quick knockout, à la Mike Tyson: you'll implement a feature or correct a bug with no hassle, in a short time, a real walk in the park. But sometimes you'll face real WARS between you and the application. Implementing the new feature will be a long and painful battle, and when it's over you'll be exhausted, hurt, and probably traumatized for life.
 
