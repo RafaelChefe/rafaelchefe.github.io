@@ -1,7 +1,7 @@
 # Site
-name: "Blog do Chefe"
-title: "Blog do Chefe"
-description: "Fiquei com vontade de escrever, eis o resultado."
+name: "The Chief's Weblog"
+title: "The Chief's Weblog"
+description: "I felt like writing, here's the result. | Deu vontade de escrever, eis o resultado."
 logo: "assets/images/tomahawk.svg"
 favicon: "assets/images/logo.png"
 baseurl: ""
