@@ -1,7 +1,7 @@
 # Site
 name: "The Chief's Weblog"
 title: "The Chief's Weblog"
-description: "I felt like writing, here's the result. | Deu vontade de escrever, eis o resultado."
+description: "I felt like writing, here's the result."
 logo: "assets/images/tomahawk.svg"
 favicon: "assets/images/logo.png"
 baseurl: ""
@@ -14,12 +14,12 @@ permalink: /:title/
 authors:
   raf:
     name: Rafael Chefe
-    display_name: Rafael Chefe
+    display_name: Raf The Chief
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: estradeiro@gmail.com
     web: http://rafaelchefe.github.io
     twitter: https://twitter.com/RafaelChefe
-    description: "Um tosco com um teclado."
+    description: "A coarse guy with a keyboard."
 
 # Plugins
 plugins:
