@@ -6,7 +6,7 @@ logo: "assets/images/tomahawk.svg"
 favicon: "assets/images/logo.png"
 baseurl: ""
 google_analytics: "UA-46278016-1"
-disqus: "Blog do Chefe"
+disqus: "blog-do-chefe"
 include: ["_pages"]
 permalink: /:title/
 
