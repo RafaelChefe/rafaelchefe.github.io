@@ -7,7 +7,7 @@ tags: [boxing, english]
 image: assets/images/belfort-holyfied.jpg
 description: "Victor Belfort didn't do shit"
 featured: true
-hidden: true
+hidden: false
 ---
 
 > Photo by [Boxing Scene](http://boxingscene.com)

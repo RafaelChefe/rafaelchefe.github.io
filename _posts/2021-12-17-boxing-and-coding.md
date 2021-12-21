@@ -2,12 +2,12 @@
 layout: post
 title: "Boxing and Coding"
 author: raf
-categories: [software-development, english]
+categories: [boxing, software-development, english]
 tags: [boxing, coding, english]
 image: assets/images/ali-foreman.jpg
 description: "Boxing and coding are more similar than you think"
 featured: true
-hidden: true
+hidden: false
 ---
 
 ###### _Originally published on [Impulso blog](http://blog.impulso.network) (formerly HE:Labs), on January 21, 2014._
